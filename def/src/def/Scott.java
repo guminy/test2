@@ -6,7 +6,7 @@ public class Scott {
 		System.out.println("testing");
 		//this is done
 		
-		System.out.println("conflict"); 
+		System.out.println("conflict");   
 	}
 
 }
